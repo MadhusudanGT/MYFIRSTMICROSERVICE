@@ -1,0 +1,7 @@
+com\LibraryManagement\UserService\repository\UserRepository.class
+com\LibraryManagement\UserService\VO\ResponseTemplateVO.class
+com\LibraryManagement\UserService\service\UserService.class
+com\LibraryManagement\UserService\entity\User.class
+com\LibraryManagement\UserService\VO\Department.class
+com\LibraryManagement\UserService\controller\UserController.class
+com\LibraryManagement\UserService\UserServiceApplication.class
